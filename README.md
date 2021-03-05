@@ -6,4 +6,4 @@ A 16x2 LCD screen is used to display the brightness of each colour. The LCD is b
 
 Pinouts are found in the .ino code. 
 
-Each colour on the LED strip is assigned a potentiometer. Four potentiometers for four colours, very straightforward.
+Each colour on the LED strip is assigned a potentiometer. Four potentiometers for four colours.
